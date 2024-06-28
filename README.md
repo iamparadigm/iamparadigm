@@ -50,7 +50,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   
-  - 🔭 Em busca da minha primeira oportunidade na área de programação. Meu objetivo é trabalhar na como desenvolvedor Front End.
+  - 🔭 Em busca da minha primeira oportunidade na área de programação. Meu objetivo é trabalhar na área de programação como desenvolvedor Front End.
   
   - ⚡ Tenho experiência em SQL utilizando o SQL Server, o que me torna capaz de trabalhar com bancos de dados de forma eficiente e realizar consultas complexas. Além disso, possuo conhecimentos básicos em JavaScript ES6, HTML e CSS, o que me permite criar interfaces simples e atraentes. \o/
 </details>
